@@ -51,7 +51,7 @@ npm ou yarn
 **1 - Clone o repositório:**
 
 ```http
-git clone https://github.com/Ricardo-Brand/Calculadora.git
+git clone git@github.com:Ricardo-Brand/Calculadora.git
 
 ```
 
